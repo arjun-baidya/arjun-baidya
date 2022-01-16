@@ -52,6 +52,7 @@
  src="./images/odoo.png" />
   <img align="left" alt="express" title="Express" width="80" height="80" hspace="10" vspace="10"
  src="./images/express.png" />
+ <br/><br/>
   <img align="left" alt="react" title="React" width="80" hspace="10" vspace="10"
  src="./images/react.png" />
   <img align="left" alt="bootstrap" title="Bootstrap" width="80" hspace="10" vspace="10"
@@ -64,6 +65,7 @@
  src="./images/jqury.png" />
   <img align="left" alt="material" title="Material UI" width="80" hspace="10" vspace="10"
  src="./images/material.png" />
+ <br/><br/>
   <img align="left" alt="sass" title="SASS" width="80" hspace="10" vspace="10"
  src="./images/sass.png" />
   <img align="left" alt="tailwind" title="Tailwind-CSS" width="80" hspace="10" vspace="10"
