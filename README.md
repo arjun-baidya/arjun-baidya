@@ -38,9 +38,9 @@
 
 <h1>Skills </h1>
 
-<img align="left" alt="python" title="Python" width="50" hspace="5"
+<img align="left" alt="python" title="Python" width="80" hspace="10" vspace="10"
  src="./images/python.jpeg" />
- <img align="left" alt="c" title="C" width="50" hspace="5"
+ <img align="left" alt="c" title="C" width="50" hspace="5" vspace="10"
  src="./images/c.png" />
   <img align="left" alt="go" title="GO" width="50" hspace="5"
  src="./images/go.png" />
@@ -55,7 +55,7 @@
   <img align="left" alt="react" title="React" width="50" hspace="5"
  src="./images/react.png" />
   <img align="left" alt="bootstrap" title="Bootstrap" width="50" hspace="5"
- src="./images/bootstarp.jpg" />
+ src="./images/bootstrap.jpg" />
   <img align="left" alt="html" title="HTML" width="50" hspace="5"
  src="./images/html.png" />
   <img align="left" alt="css" title="CSS" width="50" hspace="5"
