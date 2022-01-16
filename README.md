@@ -1,6 +1,6 @@
 <h1> 👋 Hello, I'm Arjun Baidya </h1>
 
-<h3>A full time Software Developer</h3> and content creator on Python,JavaScript,Go,Django,React Js,Node JS,Odoo and web technology.
+<h4>A full time Software Developer and content creator on Python,JavaScript,Go,Django,React Js,Node JS,Odoo and web technology.</h4>
 
 <a href="https://www.linkedin.com/in/arjun-baidya13/" target="_blank">
 <img align="left" alt="linkedin" title="linkedin" width="45" hspace="5"
