@@ -31,3 +31,52 @@
     Teaching is my another good skill. My Interested tech area is data science, machine learning, and AI.
     Every day I try to learn something and share my knowledge in the community.
 </p>
+
+<br/>
+<br/>
+<br/>
+
+<h1>Skills </h1>
+
+<img align="left" alt="python" title="Python" width="50" hspace="5"
+ src="./images/python.jpeg" />
+ <img align="left" alt="c" title="C" width="50" hspace="5"
+ src="./images/c.png" />
+  <img align="left" alt="go" title="GO" width="50" hspace="5"
+ src="./images/go.png" />
+  <img align="left" alt="javascript" title="JavaScript" width="50" hspace="5"
+ src="./images/js.jpeg" />
+  <img align="left" alt="django" title="Django" width="50" hspace="5"
+ src="./images/django.png" />
+  <img align="left" alt="odoo" title="Odoo" width="50" hspace="5"
+ src="./images/odoo.png" />
+  <img align="left" alt="express" title="Express" width="50" hspace="5"
+ src="./images/express.png" />
+  <img align="left" alt="react" title="React" width="50" hspace="5"
+ src="./images/react.png" />
+  <img align="left" alt="bootstrap" title="Bootstrap" width="50" hspace="5"
+ src="./images/bootstarp.jpg" />
+  <img align="left" alt="html" title="HTML" width="50" hspace="5"
+ src="./images/html.png" />
+  <img align="left" alt="css" title="CSS" width="50" hspace="5"
+ src="./images/css.png" />
+  <img align="left" alt="jquery" title="JQuery" width="50" hspace="5"
+ src="./images/jqury.png" />
+  <img align="left" alt="material" title="Material UI" width="50" hspace="5"
+ src="./images/material.png" />
+  <img align="left" alt="sass" title="SASS" width="50" hspace="5"
+ src="./images/sass.png" />
+  <img align="left" alt="tailwind" title="Tailwind-CSS" width="50" hspace="5"
+ src="./images/tailwind.jpeg" />
+  <img align="left" alt="sql" title="SQL" width="50" hspace="5"
+ src="./images/sql.png" />
+  <img align="left" alt="postgresql" title="PostgreSql" width="50" hspace="5"
+ src="./images/postgresql.png" />
+  <img align="left" alt="mongo" title="MongoDB" width="50" hspace="5"
+ src="./images/mongodb.png" />
+  <img align="left" alt="c" title="Firebase" width="50" hspace="5"
+ src="./images/firebase.png" />
+  <img align="left" alt="git" title="Git" width="50" hspace="5"
+ src="./images/git.png" />
+  <img align="left" alt="c" title="GitHub" width="50" hspace="5"
+ src="./images/githubs.png" />
