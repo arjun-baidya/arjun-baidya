@@ -47,10 +47,10 @@
   <img align="left" alt="javascript" title="JavaScript" width="80" hspace="10" vspace="10"
  src="./images/js.jpeg" />
   <img align="left" alt="django" title="Django" width="80" hspace="10" vspace="10"
- src="./images/django.png" />
+ src="./images/django.jpeg" />
   <img align="left" alt="odoo" title="Odoo" width="80" hspace="10" vspace="10"
  src="./images/odoo.png" />
-  <img align="left" alt="express" title="Express" width="80" hspace="10" vspace="10"
+  <img align="left" alt="express" title="Express" width="80" height="80" hspace="10" vspace="10"
  src="./images/express.png" />
   <img align="left" alt="react" title="React" width="80" hspace="10" vspace="10"
  src="./images/react.png" />
