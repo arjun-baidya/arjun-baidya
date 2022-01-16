@@ -23,7 +23,8 @@
  src="./images/youtube.png" />
  </a>
 
-
+<br/>
+<br/>
 <h1> About Me </h1>
 <p align="justify">
     I am a full-time full-stack Software Developer with a couple of years of industry experience. In the industry, I worked on  Python, C, JavaScript, Go, React, Django, Node JS, Odoo, PostgreSQL, MongoDB, MySql, Firebase. I big of time in my development career I spend web development. I have good knowledge of React JS.
