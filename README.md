@@ -24,7 +24,7 @@
  </a>
  <a href="www.medium.com/@arjun.chandra.baidya/" target="blank">
 <img align="left" alt="medium" title="Medium" width="45" hspace="5"
- src="./images/medium.jpg" />
+ src="./images/medium.png" />
  </a>
 
 <br/>
