@@ -82,3 +82,34 @@
  src="./images/git.png" />
   <img  alt="c" title="GitHub" width="80" hspace="10" vspace="10"
  src="./images/githubs.png" />
+
+
+ <br/><br/><br/>
+ <h1>EXPERIENCE </h1>
+ <br/><br/>
+ <h4>Software Developer </h4><br/>
+ <h6>Yuko Leather Goods Ltd.|Dhaka, Bangladesh</h6><br/>
+ <h6>Sep 2020 to Ongoing </h6><br/>
+ <p>
+ Building a e-Commerce website using Python,Django-rest-framework and
+React js.<p/>
+<br/>
+<p>
+Worked in both front-end and back-end also worked in project plan.
+</p>
+<p>
+Worked in custom odoo app development v-13,14,15.
+</p>
+
+
+<br/><br/><br/>
+ <h4>TRAINEESURVEYDESIGNPROGRAMMERDATAANALYST</h4><br/>
+ <h6>Analyticsify.|Dhaka, Bangladesh</h6><br/>
+ <h6>March 2020 – May 2020 </h6><br/>
+ <p>
+ Data cleaning and ready to peform.<p/>
+<br/>
+<p>
+Programming for survey design.
+</p>
+
