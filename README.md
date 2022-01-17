@@ -22,6 +22,10 @@
 <img align="left" alt="linkedin" title="Youtube" width="45" hspace="5"
  src="./images/youtube.png" />
  </a>
+ <a href="" target="blank">
+<img align="left" alt="medium" title="Medium" width="45" hspace="5"
+ src="./images/medium.jpg" />
+ </a>
 
 <br/>
 <br/>
