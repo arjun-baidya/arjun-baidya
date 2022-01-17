@@ -87,7 +87,7 @@
  <br/><br/><br/>
  <h1>EXPERIENCE </h1>
  <h4>Software Developer </h4>
- <h6>Yuko Leather Goods Ltd.|Dhaka, Bangladesh</h6>
+ <h6>Yuko Leather Goods Ltd.| Dhaka, Bangladesh</h6>
  <h6>Sep 2020 to Ongoing </h6>
  <p>
  Building a e-Commerce website using Python,Django-rest-framework and
@@ -102,7 +102,7 @@ Worked in custom odoo app development v-13,14,15.
 
 <br/>
  <h4>TRAINEESURVEYDESIGNPROGRAMMERDATAANALYST</h4>
- <h6>Analyticsify.|Dhaka, Bangladesh</h6>
+ <h6>Analyticsify.| Dhaka, Bangladesh</h6>
  <h6>March 2020 – May 2020 </h6>
  <p>
  Data cleaning and ready to peform.<p/>
@@ -110,3 +110,28 @@ Worked in custom odoo app development v-13,14,15.
 Programming for survey design.
 </p>
 
+<br/>
+<h1> Education </h1>
+
+   B.Sc. in Computer Science & Engineering  
+   Daffodil International University
+   Dhaka, Bangladesh.
+
+<br />
+
+### Languages:
+
+ Bangla : Native
+ English : Advance
+ Hindi : Basic
+  <br />
+
+  <h1>Hobby</h1>
+  Work in new Technology.
+  Reading.
+  Travelling.
+
+
+  Thanks for everyone.
+
+  All right reserved Arjun Baidya @2022
